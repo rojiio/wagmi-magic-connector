@@ -24,11 +24,11 @@
   },
   "dependencies": {
     "@changesets/cli": "^2.24.0",
-    "@magic-ext/connect": "^3.0.0",
-    "@magic-ext/oauth": "^4.0.0",
-    "@magic-sdk/provider": "^10.0.0",
-    "@wagmi/core": "^0.5.8",
-    "magic-sdk": "^10.0.0"
+    "@magic-ext/connect": "^4.0.0",
+    "@magic-ext/oauth": "^5.0.0",
+    "@magic-sdk/provider": "^11.0.0",
+    "@wagmi/core": "^0.8.5",
+    "magic-sdk": "^11.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.30.7",

@@ -23,7 +23,6 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@changesets/cli": "^2.24.0",
     "@magic-ext/connect": "^4.0.0",
     "@magic-ext/oauth": "^5.0.0",
     "@magic-sdk/provider": "^11.0.0",
@@ -31,9 +30,9 @@
     "magic-sdk": "^11.0.0"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.24.0",
     "@typescript-eslint/eslint-plugin": "^5.30.7",
     "@typescript-eslint/parser": "^5.30.7",
-    "@wagmi/core": "^0.5.8",
     "changeset": "^0.2.6",
     "eslint": "^8.20.0",
     "eslint-config-prettier": "^8.5.0",
